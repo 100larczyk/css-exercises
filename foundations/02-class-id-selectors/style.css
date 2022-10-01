@@ -1,0 +1,17 @@
+.dog {
+background-color: rgb(224, 167, 177);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#tree {
+    color: rgb(20, 20, 231);
+    font-size: 36px;
+}
+.dog2 {
+    font-size: 24px;
+}
+#sky {
+    background-color: rgb(107, 240, 107);
+    font-size: 24px;
+    font-weight: bold;
+}
